@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Hide the Admin Bar
-Plugin URI: http://zafrira.net/services/wordpress-plugins/hide-admin-bar/
+Plugin URI: https://zafrira.net/en/tools/wordpress-plugins/hide-admin-bar/
 Description: Hide the admin bar from your WordPress
-Version: 1.0.0
-Author: Zafrira
-Author URI: http://zafrira.net
+Version: 1.0.1
+Author: zafrira
+Author URI: https://zafrira.net
 */
 
 if(!is_admin()){

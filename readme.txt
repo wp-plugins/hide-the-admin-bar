@@ -3,8 +3,8 @@ Contributors: zafrira
 Donate link: http://zafrira.net/
 Tags: admin
 Requires at least: 3.1.0
-Tested up to: 3.1.2
-Stable tag: 1.0.0
+Tested up to: 3.4.2
+Stable tag: 1.0.1
 
 Hides the admin bar on your blog view.
 
@@ -30,6 +30,10 @@ It will hide the wordpress admin bar from your blog view.
 In some designs it doesnt look nice or you don't need to use it.
 
 == Changelog ==
+
+= 1.0.1 =
+* updated plugin URL
+* updated stable wordpress version
 
 = 1.0.0 =
 * this is the first public release
